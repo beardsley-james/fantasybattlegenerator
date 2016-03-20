@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Fanwood+Text|Neuton:700);
+body {
+  font-family: "Fanwood Text", serif;
+  font-size: 120%;
+  width: 90%;
+  margin: auto;
+  background-color: #663300;
+  color: #333300;
+}
+
+h2 {
+  font-family: Neuton, serif;
+}
+
+form {
+  width: 90%;
+  margin: auto;
+}
+
+button {
+  font-family: Neuton, serif;
+  font-size: 150%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 6px;
+  padding: 5px;
+}
+
+legend {
+  background-color: #cc9900;
+  border-radius: 4px;
+}
+
+fieldset {
+  width: 46%;
+  margin: 3px;
+  ;
+  display: inline;
+  background-color: #cc9900;
+  border: none;
+  border-radius: 4px;
+}
+
+input {
+  width: 79%;
+  float: right;
+  font-family: "Fanwood Text", serif;
+  font-size: 80%;
+}
+
+select {
+  width: 80%;
+  float: right;
+  font-family: Neuton, serif;
+  font-size: 80%;
+}
+
+button {
+  float: clear;
+  display: block;
+  background-color: #cc9900;
+  color: #333300;
+}
+
+div#p1 {
+  position: fixed;
+  width: 20%;
+  left: 30px;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+div#p2 {
+  position: fixed;
+  right: 30px;
+  width: 20%;
+  background-color: white;
+  color: black;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+div#fight {
+  width: 50%;
+  margin: auto;
+  background-color: #cc9900;
+  color: #333300;
+  padding: 10px;
+  border-left: solid 5px #CC6600;
+  border-right: solid 5px #CC6600;
+}
+
+img {
+  width: 50%;
+  float: right;
+}

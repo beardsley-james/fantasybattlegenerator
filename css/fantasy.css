@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Fanwood+Text|Neuton:700);
+body {
+  font-family: "Fanwood Text", serif;
+  background-color: #663300;
+  color: #333300;
+}
+
+.jumbotron {
+	background-image: url("../images/dark_embroidery.png");
+}
